@@ -1,7 +1,3 @@
-#############################
-#Made by Marc Perales Salomo#
-#Copyright   2019-2020      #
-#############################
 from random import randint
 
 board = []
